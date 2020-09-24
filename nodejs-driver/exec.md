@@ -1,0 +1,6 @@
+
+```
+db.collection.aggregate().exec(
+    () => {}
+)
+```
